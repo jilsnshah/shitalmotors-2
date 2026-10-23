@@ -1,0 +1,1813 @@
+{
+  "generatedAt": "2026-10-22T14:51:11.955Z",
+  "source": "https://www.shitalmotors.com",
+  "name": "Shital Motors",
+  "tagline": "Authorised Mahindra Dealer",
+  "since": "2004",
+  "about": "Welcome to Shital Motors to enjoy the most delightful experience of buying Mahindra range of vehicles. We are one of the oldest & leading authorized channel partner of Mahindra & Mahindra automotive division personal and commercial range of vehicles in Gujarat with 3s facilities. We have 4-showroom and 3-workshop in Ahmedabad and Surendranagar. We have served more than 2-lacs satisfied customers & carry a strong reputation in the minds of our valued customer and have created a sense of \"Trust\" in them right from our inception. We aim at customer delight by exceeding the expectation of our customers & believe in absolute transparency.",
+  "aboutImage": {
+    "src": "/media/brand/about.jpg",
+    "source": "https://www.shitalmotors.com/themes/mahindra-rise/image/about3.jpg",
+    "width": 1180,
+    "height": 551
+  },
+  "url": "https://www.shitalmotors.com",
+  "contact": {
+    "salesPhones": [
+      "9375808050",
+      "8448005430"
+    ],
+    "servicePhones": [
+      "9099183000",
+      "9099182000"
+    ],
+    "serviceBookingPhone": "9099182000",
+    "email": "customercare@shitalmotors.com",
+    "workshopEmail": "crm.shitalmotors@gmail.com",
+    "hours": "10:00 AM to 07:00 PM"
+  },
+  "socials": {
+    "facebook": "https://www.facebook.com/shitalmotors/",
+    "instagram": "https://www.instagram.com/mahindra_shital_motors",
+    "x": "https://twitter.com/ShitalMotorsMM",
+    "linkedin": "https://www.linkedin.com/company/76103819/"
+  },
+  "ownership": {
+    "rsa": "https://www.withyouhamesha.com/RSA.aspx",
+    "shield": "https://www.withyouhamesha.com/shield.aspx"
+  },
+  "appLinks": {
+    "android": "http://bit.ly/WYHANDROID",
+    "ios": "https://apple.co/2YexeRn",
+    "whatsapp": "http://bit.ly/WYHWhatsappDW"
+  },
+  "heroBanners": [
+    {
+      "alt": "Scorpio Classic",
+      "image": {
+        "src": "/media/banners/scorpio-classic-d-68.jpg",
+        "source": "https://mahindraimages.dealersites.in/oem_banner/scorpio-classic-d--68.jpg",
+        "width": 1600,
+        "height": 500
+      }
+    }
+  ],
+  "outlets": [
+    {
+      "id": "showroom-ashram-road",
+      "kind": "showroom",
+      "name": "Shital Motors - Ashram Road",
+      "area": "Ashram Road",
+      "city": "Ahmedabad",
+      "address": "4 - Swastik Complex, Opp. Bata Showroom, Nr. Ashramroad Police Chowki, Ashramroad, Ahmedabad, Gujarat - 380009",
+      "pincode": "380009",
+      "phones": [
+        "8448005430"
+      ],
+      "email": "customercare@shitalmotors.com",
+      "geo": {
+        "lat": 23.0362659,
+        "lng": 72.5690763
+      },
+      "hours": [
+        {
+          "day": "Monday",
+          "hours": "10 AM – 7 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "10 AM – 7 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "10 AM – 7 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "10 AM – 7 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "10 AM – 7 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "10 AM – 7 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "10 AM – 7 PM"
+        }
+      ],
+      "sourceUrl": "https://www.shitalmotors.com/outlet/showroom-opp-bata-showroom-nr-ashramroad-police-chowki-ashramroad-ahmedabad.html"
+    },
+    {
+      "id": "showroom-chandkheda",
+      "kind": "showroom",
+      "name": "Shital Motors - Chandkheda",
+      "area": "Chandkheda",
+      "city": "Ahmedabad",
+      "address": "SHOP No- 13 to 17 GROUND FLOOR, ANIKEDHYA CAPITOL, Nr. TAPOVAN CIRCLE, NIGAMNAGAR, CHANDKHEDA, Ahmedabad, Gujarat - 382424",
+      "pincode": "382424",
+      "phones": [
+        "9978448050"
+      ],
+      "email": "customercare@shitalmotors.com",
+      "geo": {
+        "lat": 23.118364,
+        "lng": 72.612545
+      },
+      "hours": [
+        {
+          "day": "Monday",
+          "hours": "10:00 AM – 7:00 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "10:00 AM – 7:00 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "10:00 AM – 7:00 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "10:00 AM – 7:00 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "10:00 AM – 7:00 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "10:00 AM – 7:00 PM"
+        }
+      ],
+      "sourceUrl": "https://www.shitalmotors.com/outlet/showroom-nr-tapovan-circle-nigamnagar-chandkheda-ahmedabad.html"
+    },
+    {
+      "id": "showroom-vishala",
+      "kind": "showroom",
+      "name": "Shital Motors - Vishala",
+      "area": "Vishala",
+      "city": "Ahmedabad",
+      "address": "Ground/ 1st Floor, Rajyash Rise, Vishala - Narol Road, Near Vishala Restaurant, Vishala, Ahmedabad, Gujarat, Ahmedabad, Gujarat - 380007",
+      "pincode": "380007",
+      "phones": [
+        "9375808050"
+      ],
+      "email": "customercare@shitalmotors.com",
+      "geo": {
+        "lat": 22.991921,
+        "lng": 72.5368198
+      },
+      "hours": [
+        {
+          "day": "Monday",
+          "hours": "10 AM – 7 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "10 AM – 7 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "10 AM – 7 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "10 AM – 7 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "10 AM – 7 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "10 AM – 7 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "10 AM – 7 PM"
+        }
+      ],
+      "sourceUrl": "https://www.shitalmotors.com/outlet/showroom-vishala---narol-road-near-vishala-restaurant-vishala-ahmedabad-gujarat--ahmedabad.html"
+    },
+    {
+      "id": "showroom-sarkhej",
+      "kind": "showroom",
+      "name": "Shital Motors - Sarkhej",
+      "area": "Sarkhej",
+      "city": "Ahmedabad",
+      "address": "07 & 08 Eliya Estate, Near Crossway Hotal, Opp. Signature-2, Sanand Chokdi, Sarkhej, Ahmedabad, Gujarat - 382210",
+      "pincode": "382210",
+      "phones": [
+        "9375808050"
+      ],
+      "email": "customercare@shitalmotors.com",
+      "geo": {
+        "lat": 22.9867349,
+        "lng": 72.4936181
+      },
+      "hours": [
+        {
+          "day": "Monday",
+          "hours": "10:00 AM – 7:00 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "10:00 AM – 7:00 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "10:00 AM – 7:00 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "10:00 AM – 7:00 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "10:00 AM – 7:00 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "10:00 AM – 7:00 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "9:30 AM – 5:00 PM"
+        }
+      ],
+      "sourceUrl": "https://www.shitalmotors.com/outlet/showroom-near-crossway-hotal-opp-signature-2-sanand-chokdi-sarkhej-ahmedabad.html"
+    },
+    {
+      "id": "showroom-sanand",
+      "kind": "showroom",
+      "name": "Shital Motors - Sanand",
+      "area": "Sanand",
+      "city": "Sanand",
+      "address": "Near Riddhi - Siddhi Bungalow, Near Sanad Bypass Road, Sanand, Gujarat - 382110",
+      "pincode": "382110",
+      "phones": [
+        "7574987070"
+      ],
+      "email": "customercare@shitalmotors.com",
+      "geo": {
+        "lat": 22.986171,
+        "lng": 72.3951398
+      },
+      "hours": [
+        {
+          "day": "Monday",
+          "hours": "10:00 AM – 7:00 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "10:00 AM – 7:00 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "10:00 AM – 7:00 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "10:00 AM – 7:00 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "10:00 AM – 7:00 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "10:00 AM – 7:00 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "11:00 AM – 4:00 PM"
+        }
+      ],
+      "sourceUrl": "https://www.shitalmotors.com/outlet/showroom-near-sanad-bypass-road-sanand.html"
+    },
+    {
+      "id": "showroom-surendranagar",
+      "kind": "showroom",
+      "name": "Shital Motors - Surendranagar",
+      "area": "Surendranagar",
+      "city": "Surendranagar",
+      "address": "Plot No. 106 Near Sarvo Petrol Pump, Main Road, Opp. Marketing yard, Wadhwan, Surendranagar, Gujarat - 363030",
+      "pincode": "363030",
+      "phones": [
+        "7572807070"
+      ],
+      "email": "customercare@shitalmotors.com",
+      "geo": {
+        "lat": 22.7203885,
+        "lng": 71.6681764
+      },
+      "hours": [
+        {
+          "day": "Monday",
+          "hours": "10 AM – 7 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "10 AM – 7 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "10 AM – 7 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "10 AM – 7 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "10 AM – 7 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "10 AM – 7 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "10 AM – 7 PM"
+        }
+      ],
+      "sourceUrl": "https://www.shitalmotors.com/outlet/showroom-opp-marketing-yard-wadhwan-surendranagar.html"
+    },
+    {
+      "id": "workshop-s-p-ring-road-bopal",
+      "kind": "workshop",
+      "name": "Shital Motors - S.P.Ring Road Bopal",
+      "area": "S.P.Ring Road Bopal",
+      "city": "Ahmedabad",
+      "address": "Opp. Mahammadpura Patia, 220ft, Sardar Patel Ring Road, Bopal, Ahmedabad, Gujarat - 380054",
+      "pincode": "380054",
+      "phones": [
+        "9099183000",
+        "9099182000"
+      ],
+      "email": "crm.shitalmotors@gmail.com",
+      "geo": {
+        "lat": 23.0079495,
+        "lng": 72.4776451
+      },
+      "hours": [
+        {
+          "day": "Monday",
+          "hours": "09:30 AM – 7 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "09:30 AM – 7 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "09:30 AM – 7 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "09:30 AM – 7 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "09:30 AM – 7 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "09:30 AM – 7 PM"
+        }
+      ],
+      "sourceUrl": "https://www.shitalmotors.com/outlet/workshop-sardar-patel-ring-road-bopal-ahmedabad.html"
+    },
+    {
+      "id": "workshop-navapura",
+      "kind": "workshop",
+      "name": "Shital Motors - Navapura",
+      "area": "Navapura",
+      "city": "Ahmedabad",
+      "address": "Opp. Pharmacy College, Changodar Highway, Near Shree Ramdev temple, Navapura, Ahmedabad, Gujarat - 382210",
+      "pincode": "382210",
+      "phones": [
+        "9825311230"
+      ],
+      "email": "crm.shitalmotors@gmail.com",
+      "geo": null,
+      "hours": [
+        {
+          "day": "Monday",
+          "hours": "09:30 AM – 7 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "09:30 AM – 7 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "09:30 AM – 7 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "09:30 AM – 7 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "09:30 AM – 7 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "09:30 AM – 7 PM"
+        }
+      ],
+      "sourceUrl": "https://www.shitalmotors.com/outlet/workshop-near-shree%C2%A0ramdev-temple-navapura-ahmedabad.html"
+    },
+    {
+      "id": "workshop-surendranagar",
+      "kind": "workshop",
+      "name": "Shital Motors - Surendranagar",
+      "area": "Surendranagar",
+      "city": "Surendranagar",
+      "address": "Nr. Sarva Petrol Pump Main Road, Opp. Marketing yard, Wadhwan, Surendranagar, Gujarat - 363030",
+      "pincode": "363030",
+      "phones": [
+        "9601329293"
+      ],
+      "email": "crm.shitalmotors@gmail.com",
+      "geo": {
+        "lat": 22.719888,
+        "lng": 71.668607
+      },
+      "hours": [
+        {
+          "day": "Monday",
+          "hours": "09:30 AM – 7 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "09:30 AM – 7 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "09:30 AM – 7 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "09:30 AM – 7 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "09:30 AM – 7 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "09:30 AM – 7 PM"
+        },
+        {
+          "day": "Sunday",
+          "hours": "09:30 AM – 7 PM"
+        }
+      ],
+      "sourceUrl": "https://www.shitalmotors.com/outlet/workshop-opp-marketing-yard-wadhwan-surendranagar.html"
+    },
+    {
+      "id": "workshop-chandkheda",
+      "kind": "workshop",
+      "name": "Shital Motors - Chandkheda",
+      "area": "Chandkheda",
+      "city": "Ahmedabad",
+      "address": "Plot No.11, T P 44, Opp. Sangath Pines, Chandkheda, Ahmedabad, Nr. Safayar Party Plot, Ahmedabad, Gujarat - 382424",
+      "pincode": "382424",
+      "phones": [
+        "9825009538"
+      ],
+      "email": "gmservicechandkheda@gmail.com",
+      "geo": {
+        "lat": 23.1122601,
+        "lng": 72.6028264
+      },
+      "hours": [
+        {
+          "day": "Monday",
+          "hours": "09:30 AM – 7:00 PM"
+        },
+        {
+          "day": "Tuesday",
+          "hours": "09:30 AM – 7:00 PM"
+        },
+        {
+          "day": "Wednesday",
+          "hours": "09:30 AM – 7:00 PM"
+        },
+        {
+          "day": "Thursday",
+          "hours": "09:30 AM – 7:00 PM"
+        },
+        {
+          "day": "Friday",
+          "hours": "09:30 AM – 7:00 PM"
+        },
+        {
+          "day": "Saturday",
+          "hours": "09:30 AM – 7:00 PM"
+        }
+      ],
+      "sourceUrl": "https://www.shitalmotors.com/outlet/workshop-nr-safayar-party-plot-ahmedabad.html"
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Makwana Prashant",
+      "city": "Ahmedabad",
+      "text": "Among the best Mahindra maintenance workshops in Ahmedabad. I see many people complaining about the services and not doing maintenance quickly enough, but give them updated and book an appointment a day or two prior about what work is to be and what kind of maintainance it is and they will give the you best service ✌️\nShital Motors is among our usual go-to Mahindra maintenance or service workshops."
+    },
+    {
+      "name": "Shaikh Sufiyan",
+      "city": "Ahmedabad",
+      "text": "Working with Amit Mevada and Manish Tripathi was an absolute pleasure! Manish and Mayur is extremely patient, I never felt pressured to make a decision, and most importantly, a professional - who knows the car business inside and out. The buying process of my XUV700 took about weeks. The best part – Manish stayed in touch with me the entire time which only made the buying experience even more enjoyable. I highly recommend you talk to Manish Tripathi if you are considering buying a new or previously owned automobile."
+    },
+    {
+      "name": "Dilip Patel",
+      "city": "Ahmedabad",
+      "text": "Hello mahindra team\nToday I purchase Bolero neo from shital motors Ashram Road.\nVerry nice delivery experience with Himanshu patel and hetal.\nAt time of delivery given demo and test drive.\nAlso there celebrated pooja ceremony.\nThank you"
+    },
+    {
+      "name": "Sagatsingh Bhati",
+      "city": "Ahmedabad",
+      "text": "Very very nice delivery experience from shital motors Ashram Road\nEspecially thank to ramesh patel snd Hetal.\nAt delivery time give demo and test drive\nThank you so much"
+    },
+    {
+      "name": "Adani Viraj",
+      "city": "Ahmedabad",
+      "text": "Hello team\nToday just purchased xuv300 froam shital motors Ashram Road\nExcellent service experience with Ramesh patel."
+    },
+    {
+      "name": "Maheshgiri Goswami",
+      "city": "Ahmedabad",
+      "text": "My new delivery experience\nVery excellent service at shital motors sarkhej\nVery good experience with shital\nThansk to hardik bhai and neha"
+    },
+    {
+      "name": "Montu Bharwad",
+      "city": "Ahmedabad",
+      "text": "Hello team\nSo happy to write that just took the delivery of big daddy from Shital motors Sarkhej .\nIt was such a great experience from booking to til delivery\nJwalin and Neha very helpful person\nAnd delivery process is very ezy and fst\nThanks to team Shital\nFor wonderful service"
+    },
+    {
+      "name": "Jagdish Dulera",
+      "city": "Ahmedabad",
+      "text": "Maru name jagdish chhe\nMe aaje shital motors sarkhej branch thi\nEk navi gadi chhoddai chhe\nXuv700\nMaro anubhav saro rahyo chhe\nMane jwalin bhai khubaj madadrup rahya hatha\nJemne mane saro\nAnubhav karavyo\nMane time thi delivery aapi\nMaru anubhav khubaj saro rahyo chhe\nThank you jwalin bhai and neha medam\nMaro anubhav saro banava badal\nThank to to shital Motors and mahindra and team"
+    },
+    {
+      "name": "RAJPUT KUNJ",
+      "city": "Ahmedabad",
+      "text": "Excellent service\nHappy to delivery process\nVery fast and smooth delivery\nThanks to bharat bhai for grateful experience\nThanks to\nteam shital sarkhej"
+    },
+    {
+      "name": "Rahul Sonara",
+      "city": "Ahmedabad",
+      "text": "I just purchased New Thar\nFrom shital motors at sarkhej\nMy experience is very excellent and delivery process is vey ezy and fast\nThanks to Jaimin bhai for wonderful experience\nThanks to team sarkhej"
+    },
+    {
+      "name": "Dharmendra Jani",
+      "city": "Ahmedabad",
+      "text": "My self Dharmendra Jani and today I purchase xuv300 w6 P from shital motors Ashram road.\nEspecially thank to Mit Patel. He arrange all document at the delivery time.\nAt the delivery time give demo and test drive."
+    },
+    {
+      "name": "krupa surgical",
+      "city": "Ahmedabad",
+      "text": "Hello team\nToday I purchased xuv300 w8 D with shital motirs Ashram road.\nVery good delivery experience with Manish Tripathi and Himanshi bhai.\nAt delivery time give demo and test drive.\nAll staff very sportive and helpful.\nThank you for making my delivery amazing."
+    },
+    {
+      "name": "pratik patel",
+      "city": "Ahmedabad",
+      "text": "Dear sir/mam,\nIt is excellence to have delivery from shital motors through Mr ramesh patel and Mr manish sir they have great at support and communication ."
+    },
+    {
+      "name": "Sandhya Joshi",
+      "city": "Ahmedabad",
+      "text": "We got the demo from Himanshubhai , we recommend him , SHITAL motors & Mahindra for future.10/10\nThanks\nJatin Joshi"
+    },
+    {
+      "name": "Gayatri Anjaria",
+      "city": "Ahmedabad",
+      "text": "Wonderful i have no words to say i m so happy with Mehendra Moter as shital moter sarkhej and one think is that the wonderful person Jaymin and also Neha both attitude towerds me so supb so i feel so happy to purchase this car so kind of u dear Jaymin and Neha gud"
+    },
+    {
+      "name": "Jaydevsinh Chavda",
+      "city": "Ahmedabad",
+      "text": "Hello team,\nMy self pravin and today i purchased xuv300 froam shital motors ashram road.\nAmazing delivery experience with ramesh patel.\nAt time of delivery give demo and test drive.\nThank you\nShital motora\nAshram road"
+    },
+    {
+      "name": "Omi Patel",
+      "city": "Ahmedabad",
+      "text": "Hi,\nSuperb delivery experience with shital motors Ashram road.\nEspecially thank to Manish tripathi and Ajay Trivedi.\nAt time of delivery give demo and test drive.\nAlso there celebrate Pooja ceremony.\nThank you so much\nShital motors\nAshram Road"
+    },
+    {
+      "name": "Mohan Lal",
+      "city": "Ahmedabad",
+      "text": "Hello\nMy self Mohan lal.\nToday I purchased Scorpio classic S11 White.\nSuperb delivery experience with shital motors Ashram Road.\nEspecially thanks to Manish Tripathi, Ramesh Patel, hetal Khatik and all staff very friendly and supporting.\nThank you"
+    },
+    {
+      "name": "Saurabh Shah",
+      "city": "Ahmedabad",
+      "text": "Dear sir / madam ,\nIt’s an amazing experience as on my birthday I get My XUV7OO dream car .\nI really thanks for hospitality and customer service given by Mr Manish Tripathi , Mr Himanshu talsaniya, mr Ramesh patel and Ms Hetal Khatik..\nAll staff are very supportive.\nThank you for wonderful experience.\nRegards,\nSaurabh shah\nHappy customer."
+    },
+    {
+      "name": "Padam Patel",
+      "city": "Ahmedabad",
+      "text": "Hi,\nI am Padma Ram, today I purchased Scorpio classic S11 from shital motors Ashram Road.\nSuperb delivery experience with Ajay Trivedi.\nVery cooperative and helpful.\nAt the delivery also there celebrated Pooja ceremony.\nThank so much."
+    },
+    {
+      "name": "Narendrasinh Vaghel",
+      "city": "Ahmedabad",
+      "text": "Hello team,\nMy self Narendra Vaghela and today I purchase my dream xuv700.\nSuperb delivery experience with shital motors Ashram Road.\nEspecially thank to Ramesh Patel and heman Soni.\nHe arrange all documents at the delivery time. Give demo and test drive.\nThank you for making my delivery very memorable."
+    },
+    {
+      "name": "Tushar Awasthi",
+      "city": "Ahmedabad",
+      "text": "Hello team,\nToday I am purchase xuv700 AX5 from shital motors ashram road.\nEspecially thanks to ramesh patel . He arrange all document at ધ delivery time.\nAt delivery time give demo and test drive.\nThank you so much\nShital motors\nAshram road"
+    },
+    {
+      "name": "Ritik Agarwal",
+      "city": "Ahmedabad",
+      "text": "Hello…..\nToday I purchased Mahindra Thar from shital motors ashram road and I have very delighted experience at delivery time and I m totally satisfied with service and on time delivery experience.\nThank you so much Mr MIT Patel and Team for your co operation.\nAnd I must suggest everyone for Shital motor ashram road for Mahindra vehicle.\nKeep it up guys…!!!"
+    },
+    {
+      "name": "Patil Bhushan",
+      "city": "Ahmedabad",
+      "text": "Mr. Paresh Patel, Mr. Dhaval Jani and the Entire Showroom did a Fantastic Job. I got Bolero Neo N8 on My Special Day. They Surprised me with Cake and other bunch of Surprises. Special thanks to explained me all features or Bolero Neo. Kudos to Team Chandkheda. I recommend Mr. Paresh Patel for New Cars."
+    },
+    {
+      "name": "Yash Parmar",
+      "city": "Ahmedabad",
+      "text": "I want to thank Bhagyesh patel who took care all of my needs, I got amazing delivery experience from Mahindra Sheetal Motors Chandkheda, Ahmedabad. All staff of the showroom is Very Supportive and Kind and Very Fast Delivery Of My New Car XUV 7OO.\nCheers."
+    },
+    {
+      "name": "Punya Jain",
+      "city": "Ahmedabad",
+      "text": "Amazing delivery experience with shital motors Ashram Road. Espcelly thank to Ajay Trivedi. He arrange all document.\nThank you."
+    },
+    {
+      "name": "Himanshu Vyas",
+      "city": "Ahmedabad",
+      "text": "Hi\nToday I am so happy purchase my dream xuv300 w6 P from shital motors Ashram Road.\nEspecially thank to manish tripathy and mayur sahastrabuddhe he give all information about car at the delivery time give demo.\nThank you so much\nShital motors Ashram Road."
+    },
+    {
+      "name": "Parmar Deshu",
+      "city": "Ahmedabad",
+      "text": "Hello\nI purchase bolero B 4 from shital motors Ashram Road.\nAmazing delivery experience with Manish Tripathi and Ramesh Patel.\nAt time of delivery give demonstration and test drive.\nThank you"
+    },
+    {
+      "name": "Girdharbhai Patel",
+      "city": "Ahmedabad",
+      "text": "The journey with shital motors was great. Got all the needful information form your side."
+    },
+    {
+      "name": "NIRAV DAVE",
+      "city": "Ahmedabad",
+      "text": "I had Delivery 0f My All New Bolero Neo N10. All Thanks to Mr. Jay Raval, Mr. Dhaval Jani for this unforgettable Experience I ever had in my Life. The Delivery process was very amazing.\nAll the Staff of Shital Motors Chandkheda was very Supportive and Helpful during my Booking to Delivery Experience.\nPlease Say thanks to Mr. Jay Raval and Dhaval Jani for this amazing experience I ever had with my Family."
+    },
+    {
+      "name": "Kishan Vihol",
+      "city": "Ahmedabad",
+      "text": "Hello shital motors,\nsuperb delivery experience with shital motor Ashram.\nEspecially thanks to manish tripathi and ramesh patel.\nThank you."
+    },
+    {
+      "name": "Vikash",
+      "city": "Ahmedabad",
+      "text": "Hello team,\nWe really had amazing experience at shital motors chandkheda especially Rudra Patel provided outstanding services. I would really recommend everyone for shital motors @ chandkheda. If I have to buy one more car, would love to buy it from Rudra Patel."
+    },
+    {
+      "name": "Siddharaj Solanki",
+      "city": "Ahmedabad",
+      "text": "Hello shital motors team,\nMy self Ajitkumar Solanki and today I purchase my new car XUV300 TGDI w8 p mt from shital motors.\nEspecially thanks to Mehul prajapati.\nHe give documents at the delivery time.\nAt delivery time aslo ther Pooja ceremony.\nShital motors all staff very supportive and helpful.\nI am so happy for buying my new car from shital motors Ashram road.\nThank you so much\nShital motors\nAshram road."
+    },
+    {
+      "name": "Patel Chetan",
+      "city": "Ahmedabad",
+      "text": "Purchased XUV700 from Shital Motors, Chandkheda. Amazing hospitality and service by Bhagyesh Patel and Manger Mr. Dhaval Jani. Bhagyesh Patel is very knowledgeable about all the features of the car. He helped me to get the perfect model of my dream car."
+    },
+    {
+      "name": "Pathan Saud Khan",
+      "city": "Ahmedabad",
+      "text": "Mehul prajapati Car Trader set the bar across the board for a perfect customer experience. From the moment I reached out with a brief inquiry, mehul prajapati was responsive, extremely knowledgeable, not only about the vehicle itself, but in walking me through the entire process. It could not have been more seamless and made the process very pleasant. Their attention to detail and my satisfaction was unparalleled- going above and beyond in every aspect!"
+    },
+    {
+      "name": "The Dimension Printing Solution",
+      "city": "Ahmedabad",
+      "text": "Hello shital motors\nI'm Janvi Yagnitkumar Bhatia and today I purchased Bolero Maxx City pic up LX\nfrom Shital Motors Asharam Road.\nHeman Soni makes all the progress very easily & smoothly.\nAt the time of delivery\ngiven demo"
+    },
+    {
+      "name": "Chirag Thakkar",
+      "city": "Ahmedabad",
+      "text": "I got delivery with name of Aditi Chiragbhai Thakkar from Shital Motors Ashram road and i have very delightful experience on this day thank you so much Mit Patel and team for that\nI will surely recommend Shital Motors Ashram road for Mahindra Product and Mit Patel is very co operative and polite person\nThanks & Regards\nChirag Thakkar."
+    },
+    {
+      "name": "Geet Patel",
+      "city": "Ahmedabad",
+      "text": "Hi team,\nI got delivery of XUV 300 W8 OPT PET GREY with name of Geet Patel.\nI got very excellent experience from shital motors ashram road team and specially from Mit Patel.\nMy delivery experience is very good and documentation and demonstrations are done at delivery time and ontime delivery and support me at every situation from team\nThanks to shital motors ashram road team\nThanks and regards\nGeet Patel."
+    },
+    {
+      "name": "Mahesh Prajapati",
+      "city": "Ahmedabad",
+      "text": "I am very happy for new car delivery ceremony and all over delivery ceremony experience is so delighted thanks shital motors Mahindra.\nSupport good all team."
+    },
+    {
+      "name": "Shiva Gohil",
+      "city": "Ahmedabad",
+      "text": "Respected sir.,\nToday i buy new scorpio classic s11.\nThe best service is given by shital motors ashram road team.\nSpecial thanxs to Mr.Manish tripathi.\nHe is so helpful to me."
+    },
+    {
+      "name": "Vivek Chopra",
+      "city": "Ahmedabad",
+      "text": "Hello shital motors Mahindra. My self Vivek Chopra and today I purchased xuv700 from Shital motars Ashram Road. Great delivery experience with Ramesh Patel they arranged the vehicle on time and very good experience."
+    },
+    {
+      "name": "Nikunjkumar Patel",
+      "city": "Ahmedabad",
+      "text": "Hello shital motors\nMy self Nikunjkumar Patel and today I purchased XUV700 from Shital Motors Ashram Road.\nMit Patel makes all the progress very easily & smoothly.\nAt the time of delivery given demo"
+    },
+    {
+      "name": "HASMUKHLAL MAFATLAL SHAH",
+      "city": "Ahmedabad",
+      "text": "Xuv700 બહુજ સારી કાર છે... Delivery experience ખૂબ જ સારો રહ્યો છે... Delivery સમયસર થઈ છે... શીતલ મોટર્સ ના સ્ટાફ નો responce સારો રહ્યો છે, એમાં પણ ખાસ કરી ને મયુર સહસ્ત્રબુદ્ધે ને મારે ખૂબ ખૂબ ધન્યવાદ કહેવા છે.. એમણે બધા જ પેપરવર્ક અને formalities ખૂબ જ સરળતા થી સમયસર કરી છે, એમનું વર્તન, વાત કરવામાં એમની respect ખૂબ જ સારી રહી છે...\nOverall Great XUV700, SHITAL MOTORS AND ALL STAFF\nHASMUKHLAL MAFATLAL SHAH"
+    },
+    {
+      "name": "Vishal Angiwala",
+      "city": "Ahmedabad",
+      "text": "I am Vishal Angiwala today I purchase Bolero Neo N 10 from shital motors Ashram Road. Great experience with Ramesh patel very smooth prossess. He arrange all document at the delivery time and give demo.\nI recommend to all new SUV buyers to visit shital motors Ashram Road."
+    },
+    {
+      "name": "Kalpesh Singal",
+      "city": "Ahmedabad",
+      "text": "I am kalpesh singal and today I purchase bolero Neo N4 BS6.\nMazing delivery experience with Ramesh Patel he arrange all documents at delivery time.\nThank you\nRamesh Patel\nAshram road, Shital motors"
+    },
+    {
+      "name": "Shailesh Patel",
+      "city": "Ahmedabad",
+      "text": "My self Shailesh patel and today I purchased XUV700 from Shital Motors Asharam Road.\nSurprise cake cutting ceremony also there on my marriage anniversary. At the time of delivery given demo and Test Drive"
+    },
+    {
+      "name": "Gaurav Vania",
+      "city": "Ahmedabad",
+      "text": "Hello shital motors\nI'm Gaurav Vania and today I purchased XUV700 from Shital Motors Asharam Road.\nSurprise cake cutting ceremony also there on my wife birthday.\nAt the time of delivery\ngiven demo and Test Drive"
+    },
+    {
+      "name": "Govani Girish",
+      "city": "Surendranagar",
+      "text": "Good behavior , Good service, Fast work"
+    },
+    {
+      "name": "Sharad Shukla",
+      "city": "Ahmedabad",
+      "text": "It was smooth and a very gentle and patient people who helped us process through the check out. :)\nLong live Indian Automobiles and our certain ways of push8jg into the market"
+    },
+    {
+      "name": "Mohammed Shaa kir Saiyed",
+      "city": "Ahmedabad",
+      "text": "Nice place"
+    },
+    {
+      "name": "Naitik patel",
+      "city": "Ahmedabad",
+      "text": "Thank you sheetal motors ashram road for the xuv700 delivery. It was an unexpected occasion to get our car on navratri festival and special thanks to ajay trived to provide a valuable services to us. We will always have a edge to be a loyal customer."
+    },
+    {
+      "name": "JAY VARSANI",
+      "city": "Ahmedabad",
+      "text": "I am buy new Mahindra car Scorpio N top model at shital motors and timely delivery done and good delivery ceremony process"
+    },
+    {
+      "name": "Amankumar Bhatt",
+      "city": "Ahmedabad",
+      "text": "excellent service by Shital Motors Chandkheda Team\nSales Consultant DHRUVAL PATEL and Sales Manager Mr DHAVAL JANI is very helpful. Excellent service given by all staff members. I would highly recommend everyone who is interested in Mahindra car's contact Chandkheda Team"
+    },
+    {
+      "name": "Abhijit Wani",
+      "city": "Ahmedabad",
+      "text": "Good delivery experience with Ramesh patel. He is the best And makes the process really smooth.\nThank\nshital Motors\nAshram Road"
+    },
+    {
+      "name": "Chintan Tank",
+      "city": "Ahmedabad",
+      "text": "Today I got delivery of My new XUV 700 from Shital Motors Ashram Road and i really happy for this moment and thank you very much to Mr. Mit Patel and shital motors team for support and co operation.\nKeep it up team for your excellent experience."
+    },
+    {
+      "name": "Kamlesh Patel",
+      "city": "Ahmedabad",
+      "text": "Amazing experience with Shital Motors ! Well managed planing for delevery of cars to customers was very impressive ! Thanks to very staff members of Shital Motors and specially thanks to\nMr. Bhavesh Suthar for giving me full support for getting my car XUV 700."
+    }
+  ],
+  "gallery": [
+    {
+      "id": "showroom-images",
+      "title": "Showroom Images",
+      "images": [
+        {
+          "src": "/media/gallery/showroom-images/showroom-images-4922.jpg",
+          "source": "https://mahindraimages.dealersites.in/139/gallery/showroom-images-4922.jpg",
+          "width": 751,
+          "height": 499
+        },
+        {
+          "src": "/media/gallery/showroom-images/showroom-images-4923.jpg",
+          "source": "https://mahindraimages.dealersites.in/139/gallery/showroom-images-4923.jpg",
+          "width": 751,
+          "height": 499
+        },
+        {
+          "src": "/media/gallery/showroom-images/showroom-images-4924.jpg",
+          "source": "https://mahindraimages.dealersites.in/139/gallery/showroom-images-4924.jpg",
+          "width": 751,
+          "height": 499
+        },
+        {
+          "src": "/media/gallery/showroom-images/showroom-images-4925.jpg",
+          "source": "https://mahindraimages.dealersites.in/139/gallery/showroom-images-4925.jpg",
+          "width": 751,
+          "height": 499
+        },
+        {
+          "src": "/media/gallery/showroom-images/showroom-images-4926.jpg",
+          "source": "https://mahindraimages.dealersites.in/139/gallery/showroom-images-4926.jpg",
+          "width": 751,
+          "height": 499
+        },
+        {
+          "src": "/media/gallery/showroom-images/showroom-images-4927.jpg",
+          "source": "https://mahindraimages.dealersites.in/139/gallery/showroom-images-4927.jpg",
+          "width": 751,
+          "height": 499
+        },
+        {
+          "src": "/media/gallery/showroom-images/showroom-images-4928.jpg",
+          "source": "https://mahindraimages.dealersites.in/139/gallery/showroom-images-4928.jpg",
+          "width": 751,
+          "height": 499
+        },
+        {
+          "src": "/media/gallery/showroom-images/showroom-images-4929.jpg",
+          "source": "https://mahindraimages.dealersites.in/139/gallery/showroom-images-4929.jpg",
+          "width": 751,
+          "height": 499
+        },
+        {
+          "src": "/media/gallery/showroom-images/showroom-images-4930.jpg",
+          "source": "https://mahindraimages.dealersites.in/139/gallery/showroom-images-4930.jpg",
+          "width": 751,
+          "height": 499
+        },
+        {
+          "src": "/media/gallery/showroom-images/showroom-images-4931.jpg",
+          "source": "https://mahindraimages.dealersites.in/139/gallery/showroom-images-4931.jpg",
+          "width": 751,
+          "height": 499
+        },
+        {
+          "src": "/media/gallery/showroom-images/showroom-images-4932.jpg",
+          "source": "https://mahindraimages.dealersites.in/139/gallery/showroom-images-4932.jpg",
+          "width": 751,
+          "height": 499
+        },
+        {
+          "src": "/media/gallery/showroom-images/showroom-images-4933.jpg",
+          "source": "https://mahindraimages.dealersites.in/139/gallery/showroom-images-4933.jpg",
+          "width": 751,
+          "height": 499
+        },
+        {
+          "src": "/media/gallery/showroom-images/showroom-images-4934.jpg",
+          "source": "https://mahindraimages.dealersites.in/139/gallery/showroom-images-4934.jpg",
+          "width": 751,
+          "height": 499
+        },
+        {
+          "src": "/media/gallery/showroom-images/showroom-images-4935.jpg",
+          "source": "https://mahindraimages.dealersites.in/139/gallery/showroom-images-4935.jpg",
+          "width": 751,
+          "height": 499
+        },
+        {
+          "src": "/media/gallery/showroom-images/showroom-images-4936.jpg",
+          "source": "https://mahindraimages.dealersites.in/139/gallery/showroom-images-4936.jpg",
+          "width": 751,
+          "height": 499
+        },
+        {
+          "src": "/media/gallery/showroom-images/showroom-images-4937.jpg",
+          "source": "https://mahindraimages.dealersites.in/139/gallery/showroom-images-4937.jpg",
+          "width": 751,
+          "height": 499
+        },
+        {
+          "src": "/media/gallery/showroom-images/showroom-images-8920.jpg",
+          "source": "https://mahindraimages.dealersites.in/139/gallery/showroom-images-8920.jpg",
+          "width": 751,
+          "height": 499
+        },
+        {
+          "src": "/media/gallery/showroom-images/showroom-images-8921.jpg",
+          "source": "https://mahindraimages.dealersites.in/139/gallery/showroom-images-8921.jpg",
+          "width": 751,
+          "height": 499
+        }
+      ]
+    },
+    {
+      "id": "awards",
+      "title": "Awards",
+      "images": [
+        {
+          "src": "/media/gallery/awards/awards-1139.jpg",
+          "source": "https://mahindraimages.dealersites.in/139/gallery/awards-1139.jpg",
+          "width": 751,
+          "height": 499
+        },
+        {
+          "src": "/media/gallery/awards/awards-1140.jpg",
+          "source": "https://mahindraimages.dealersites.in/139/gallery/awards-1140.jpg",
+          "width": 751,
+          "height": 499
+        },
+        {
+          "src": "/media/gallery/awards/awards-1141.jpg",
+          "source": "https://mahindraimages.dealersites.in/139/gallery/awards-1141.jpg",
+          "width": 751,
+          "height": 499
+        },
+        {
+          "src": "/media/gallery/awards/awards-1142.jpg",
+          "source": "https://mahindraimages.dealersites.in/139/gallery/awards-1142.jpg",
+          "width": 751,
+          "height": 499
+        },
+        {
+          "src": "/media/gallery/awards/awards-1143.jpg",
+          "source": "https://mahindraimages.dealersites.in/139/gallery/awards-1143.jpg",
+          "width": 751,
+          "height": 499
+        },
+        {
+          "src": "/media/gallery/awards/awards-1144.jpg",
+          "source": "https://mahindraimages.dealersites.in/139/gallery/awards-1144.jpg",
+          "width": 751,
+          "height": 499
+        },
+        {
+          "src": "/media/gallery/awards/awards-1145.jpg",
+          "source": "https://mahindraimages.dealersites.in/139/gallery/awards-1145.jpg",
+          "width": 751,
+          "height": 499
+        },
+        {
+          "src": "/media/gallery/awards/awards-1146.jpg",
+          "source": "https://mahindraimages.dealersites.in/139/gallery/awards-1146.jpg",
+          "width": 751,
+          "height": 499
+        },
+        {
+          "src": "/media/gallery/awards/awards-1147.jpg",
+          "source": "https://mahindraimages.dealersites.in/139/gallery/awards-1147.jpg",
+          "width": 751,
+          "height": 499
+        },
+        {
+          "src": "/media/gallery/awards/awards-1148.jpg",
+          "source": "https://mahindraimages.dealersites.in/139/gallery/awards-1148.jpg",
+          "width": 751,
+          "height": 499
+        },
+        {
+          "src": "/media/gallery/awards/awards-1149.jpg",
+          "source": "https://mahindraimages.dealersites.in/139/gallery/awards-1149.jpg",
+          "width": 751,
+          "height": 499
+        },
+        {
+          "src": "/media/gallery/awards/awards-1150.jpg",
+          "source": "https://mahindraimages.dealersites.in/139/gallery/awards-1150.jpg",
+          "width": 751,
+          "height": 499
+        },
+        {
+          "src": "/media/gallery/awards/awards-1151.jpg",
+          "source": "https://mahindraimages.dealersites.in/139/gallery/awards-1151.jpg",
+          "width": 751,
+          "height": 499
+        },
+        {
+          "src": "/media/gallery/awards/awards-1152.jpg",
+          "source": "https://mahindraimages.dealersites.in/139/gallery/awards-1152.jpg",
+          "width": 751,
+          "height": 499
+        }
+      ]
+    },
+    {
+      "id": "delivering-happiness",
+      "title": "Delivering Happiness",
+      "images": [
+        {
+          "src": "/media/gallery/delivering-happiness/delivering-happiness-9010.jpg",
+          "source": "https://mahindraimages.dealersites.in/139/gallery/delivering-happiness-9010.jpeg",
+          "width": 882,
+          "height": 768
+        },
+        {
+          "src": "/media/gallery/delivering-happiness/delivering-happiness-9011.jpg",
+          "source": "https://mahindraimages.dealersites.in/139/gallery/delivering-happiness-9011.jpg",
+          "width": 751,
+          "height": 499
+        },
+        {
+          "src": "/media/gallery/delivering-happiness/delivering-happiness-9012.jpg",
+          "source": "https://mahindraimages.dealersites.in/139/gallery/delivering-happiness-9012.jpg",
+          "width": 751,
+          "height": 499
+        },
+        {
+          "src": "/media/gallery/delivering-happiness/delivering-happiness-9002.jpg",
+          "source": "https://mahindraimages.dealersites.in/139/gallery/delivering-happiness-9002.jpg",
+          "width": 751,
+          "height": 499
+        },
+        {
+          "src": "/media/gallery/delivering-happiness/delivering-happiness-9013.jpg",
+          "source": "https://mahindraimages.dealersites.in/139/gallery/delivering-happiness-9013.jpg",
+          "width": 751,
+          "height": 499
+        },
+        {
+          "src": "/media/gallery/delivering-happiness/delivering-happiness-9003.jpg",
+          "source": "https://mahindraimages.dealersites.in/139/gallery/delivering-happiness-9003.jpg",
+          "width": 751,
+          "height": 499
+        },
+        {
+          "src": "/media/gallery/delivering-happiness/delivering-happiness-9014.jpg",
+          "source": "https://mahindraimages.dealersites.in/139/gallery/delivering-happiness-9014.jpg",
+          "width": 751,
+          "height": 499
+        },
+        {
+          "src": "/media/gallery/delivering-happiness/delivering-happiness-9004.jpg",
+          "source": "https://mahindraimages.dealersites.in/139/gallery/delivering-happiness-9004.jpg",
+          "width": 751,
+          "height": 499
+        },
+        {
+          "src": "/media/gallery/delivering-happiness/delivering-happiness-9015.jpg",
+          "source": "https://mahindraimages.dealersites.in/139/gallery/delivering-happiness-9015.jpg",
+          "width": 751,
+          "height": 499
+        },
+        {
+          "src": "/media/gallery/delivering-happiness/delivering-happiness-9005.jpg",
+          "source": "https://mahindraimages.dealersites.in/139/gallery/delivering-happiness-9005.jpg",
+          "width": 751,
+          "height": 499
+        },
+        {
+          "src": "/media/gallery/delivering-happiness/delivering-happiness-9016.jpg",
+          "source": "https://mahindraimages.dealersites.in/139/gallery/delivering-happiness-9016.jpg",
+          "width": 751,
+          "height": 499
+        },
+        {
+          "src": "/media/gallery/delivering-happiness/delivering-happiness-9006.jpg",
+          "source": "https://mahindraimages.dealersites.in/139/gallery/delivering-happiness-9006.jpg",
+          "width": 751,
+          "height": 499
+        },
+        {
+          "src": "/media/gallery/delivering-happiness/delivering-happiness-9017.jpg",
+          "source": "https://mahindraimages.dealersites.in/139/gallery/delivering-happiness-9017.jpg",
+          "width": 751,
+          "height": 499
+        },
+        {
+          "src": "/media/gallery/delivering-happiness/delivering-happiness-9007.jpg",
+          "source": "https://mahindraimages.dealersites.in/139/gallery/delivering-happiness-9007.jpg",
+          "width": 751,
+          "height": 499
+        },
+        {
+          "src": "/media/gallery/delivering-happiness/delivering-happiness-9018.jpg",
+          "source": "https://mahindraimages.dealersites.in/139/gallery/delivering-happiness-9018.jpg",
+          "width": 751,
+          "height": 499
+        },
+        {
+          "src": "/media/gallery/delivering-happiness/delivering-happiness-9008.jpg",
+          "source": "https://mahindraimages.dealersites.in/139/gallery/delivering-happiness-9008.jpg",
+          "width": 751,
+          "height": 499
+        },
+        {
+          "src": "/media/gallery/delivering-happiness/delivering-happiness-9019.jpg",
+          "source": "https://mahindraimages.dealersites.in/139/gallery/delivering-happiness-9019.jpg",
+          "width": 751,
+          "height": 499
+        },
+        {
+          "src": "/media/gallery/delivering-happiness/delivering-happiness-9009.jpg",
+          "source": "https://mahindraimages.dealersites.in/139/gallery/delivering-happiness-9009.jpg",
+          "width": 751,
+          "height": 499
+        },
+        {
+          "src": "/media/gallery/delivering-happiness/delivering-happiness-9020.jpg",
+          "source": "https://mahindraimages.dealersites.in/139/gallery/delivering-happiness-9020.jpg",
+          "width": 751,
+          "height": 499
+        },
+        {
+          "src": "/media/gallery/delivering-happiness/delivering-happiness-9021.jpg",
+          "source": "https://mahindraimages.dealersites.in/139/gallery/delivering-happiness-9021.jpg",
+          "width": 751,
+          "height": 499
+        },
+        {
+          "src": "/media/gallery/delivering-happiness/delivering-happiness-9022.jpg",
+          "source": "https://mahindraimages.dealersites.in/139/gallery/delivering-happiness-9022.jpg",
+          "width": 751,
+          "height": 499
+        },
+        {
+          "src": "/media/gallery/delivering-happiness/delivering-happiness-9024.jpg",
+          "source": "https://mahindraimages.dealersites.in/139/gallery/delivering-happiness-9024.jpg",
+          "width": 751,
+          "height": 499
+        },
+        {
+          "src": "/media/gallery/delivering-happiness/delivering-happiness-9026.jpg",
+          "source": "https://mahindraimages.dealersites.in/139/gallery/delivering-happiness-9026.jpg",
+          "width": 751,
+          "height": 499
+        },
+        {
+          "src": "/media/gallery/delivering-happiness/delivering-happiness-9027.jpg",
+          "source": "https://mahindraimages.dealersites.in/139/gallery/delivering-happiness-9027.jpg",
+          "width": 751,
+          "height": 499
+        },
+        {
+          "src": "/media/gallery/delivering-happiness/delivering-happiness-9028.jpg",
+          "source": "https://mahindraimages.dealersites.in/139/gallery/delivering-happiness-9028.jpg",
+          "width": 751,
+          "height": 499
+        }
+      ]
+    }
+  ],
+  "videos": [
+    {
+      "id": "F9pcflc5c7M",
+      "title": "Mahindra Bolero Neo | Drive that blows your mind away",
+      "category": "Bolero Neo",
+      "thumb": {
+        "src": "/media/videos/f9pcflc5c7m.jpg",
+        "source": "https://i.ytimg.com/vi/F9pcflc5c7M/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    {
+      "id": "eRP-2zIbdLA",
+      "title": "The All-electric C-SUV XUV400 | Bookings Open",
+      "category": "XUV400",
+      "thumb": {
+        "src": "/media/videos/erp-2zibdla.jpg",
+        "source": "https://i.ytimg.com/vi/eRP-2zIbdLA/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    {
+      "id": "3vHJ2ls05Wc",
+      "title": "The All-New Scorpio-N | Big on looks, big on performance",
+      "category": "Scorpio-N & Scorpio Classic",
+      "thumb": {
+        "src": "/media/videos/3vhj2ls05wc.jpg",
+        "source": "https://i.ytimg.com/vi/3vHJ2ls05Wc/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    {
+      "id": "o_969i0ldt8",
+      "title": "The All-New Scorpio-N | 5* GNCAP rating",
+      "category": "Scorpio-N & Scorpio Classic",
+      "thumb": {
+        "src": "/media/videos/o-969i0ldt8.jpg",
+        "source": "https://i.ytimg.com/vi/o_969i0ldt8/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    {
+      "id": "ISqo1NTcJZ0",
+      "title": "Introducing The New Mahindra Scorpio Classic",
+      "category": "Scorpio-N & Scorpio Classic",
+      "thumb": {
+        "src": "/media/videos/isqo1ntcjz0.jpg",
+        "source": "https://i.ytimg.com/vi/ISqo1NTcJZ0/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    {
+      "id": "9HRV6lnI9RU",
+      "title": "Indian Car of the Year, ICOTY 2022.",
+      "category": "XUV700",
+      "thumb": {
+        "src": "/media/videos/9hrv6lni9ru.jpg",
+        "source": "https://i.ytimg.com/vi/9HRV6lnI9RU/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    {
+      "id": "_osfDB5LxUA",
+      "title": "Ready to live the rush?",
+      "category": "XUV700",
+      "thumb": {
+        "src": "/media/videos/osfdb5lxua.jpg",
+        "source": "https://i.ytimg.com/vi/_osfDB5LxUA/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    {
+      "id": "j80iCD7M9CA",
+      "title": "XUV700 Scales The Highest Motorable Road Umling La",
+      "category": "XUV700",
+      "thumb": {
+        "src": "/media/videos/j80icd7m9ca.jpg",
+        "source": "https://i.ytimg.com/vi/j80iCD7M9CA/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    {
+      "id": "54WjxaXCaGc",
+      "title": "Mahindra Thar RWD",
+      "category": "Thar",
+      "thumb": {
+        "src": "/media/videos/54wjxaxcagc.jpg",
+        "source": "https://i.ytimg.com/vi/54WjxaXCaGc/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    {
+      "id": "MtivSwGmMwc",
+      "title": "The All-New Thar | All-New Engine",
+      "category": "Thar",
+      "thumb": {
+        "src": "/media/videos/mtivswgmmwc.jpg",
+        "source": "https://i.ytimg.com/vi/MtivSwGmMwc/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    {
+      "id": "6W6VZOfSL44",
+      "title": "Off-Roading Capability | The All-New Thar",
+      "category": "Thar",
+      "thumb": {
+        "src": "/media/videos/6w6vzofsl44.jpg",
+        "source": "https://i.ytimg.com/vi/6W6VZOfSL44/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    {
+      "id": "hw0VZzyCd-4",
+      "title": "The All-New Thar | Adventure Accessories",
+      "category": "Thar",
+      "thumb": {
+        "src": "/media/videos/hw0vzzycd-4.jpg",
+        "source": "https://i.ytimg.com/vi/hw0VZzyCd-4/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    {
+      "id": "_Q6T6bxsd2Q",
+      "title": "Navratri 2022 Special Delivery organized by Mahindra Shital Motors",
+      "category": "Other",
+      "thumb": {
+        "src": "/media/videos/q6t6bxsd2q.jpg",
+        "source": "https://i.ytimg.com/vi/_Q6T6bxsd2Q/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    {
+      "id": "1v9ZrVUlE-s",
+      "title": "The All-New Scorpio-N | Arriving 27th June 2022",
+      "category": "Other",
+      "thumb": {
+        "src": "/media/videos/1v9zrvule-s.jpg",
+        "source": "https://i.ytimg.com/vi/1v9ZrVUlE-s/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    {
+      "id": "cQAvJrPT0Jk",
+      "title": "Say Hello to AdrenoX, Hello XUV700",
+      "category": "Other",
+      "thumb": {
+        "src": "/media/videos/cqavjrpt0jk.jpg",
+        "source": "https://i.ytimg.com/vi/cQAvJrPT0Jk/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    {
+      "id": "TYGg3Ihbej0",
+      "title": "Mahindra Own-Online | Own an SUV online",
+      "category": "Other",
+      "thumb": {
+        "src": "/media/videos/tygg3ihbej0.jpg",
+        "source": "https://i.ytimg.com/vi/TYGg3Ihbej0/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    }
+  ],
+  "service": {
+    "intro": [
+      "We are one of the oldest & leading authorized Channel Partner of Mahindra & Mahindra Automotive Division in Gujarat with 3S facilities.",
+      "We have served more than 2-lacs+* satisfied customers & carry a strong reputation in the minds of our valued customer and have created a sense of \"TRUST\" in them right from our inception.",
+      "We aim at Customer Delight by exceeding the expectation of our customers & believe in absolute transparency.",
+      "For Service Booking call us:-",
+      "(1) AHMEDABAD:- 9099182000"
+    ],
+    "offerings": [
+      {
+        "title": "Qwik Service",
+        "text": "We know you’re busy. That’s why we will make your SUV’s scheduled service feel like a pit stop. Done in only 90 minutes, Qwik service gives you the convenience of the lowest downtime."
+      },
+      {
+        "title": "mEES",
+        "text": "Body repair is an art. But its estimation is a pure science for us. The Mahindra Electronic Estimation System (mEES) is a reliable technology that scientifically prepares an accurate estimate for your SUV’s body repair."
+      },
+      {
+        "title": "mSoW",
+        "text": "Getting everything home-delivered, lately? Then why step out to get your SUV serviced? Keeping your convenience and safety on top, we offer you ‘Mahindra Service on Wheels’ that provides-routine services, basic repair and dry wash right at your doorstep, via ingeniously customized two-wheelers and four-wheelers."
+      },
+      {
+        "title": "Pick n Drop",
+        "text": "Sit back and relax as we take care of your SUV’s service needs. Enjoy maximum convenience and complete transparency as you receive regular status updates, share approvals online and choose from a wide range of online payment options."
+      },
+      {
+        "title": "Roadside Assistance",
+        "text": "Stranded in the middle of nowhere? We’ll still find you and get you home! Our Roadside Assistance program offers a wide range of benefits for as long as 8 years of owning a Mahindra SUV."
+      },
+      {
+        "title": "Maxicare",
+        "text": "Keep your SUV looking as good as new forever with the specially curated Maxicare range of products and treatments."
+      }
+    ],
+    "videos": [
+      {
+        "id": "A4d3Wk0ukMM",
+        "title": "SHITAL MOTORS PVT LTD-Customer Delight Story-GJ01WH9747",
+        "thumb": {
+          "src": "/media/videos/a4d3wk0ukmm.jpg",
+          "source": "https://i.ytimg.com/vi/A4d3Wk0ukMM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      {
+        "id": "_h5B9-AMg6A",
+        "title": "SHITAL MOTORS PVT LTD-Customer Delight Story- GJ01WG8487",
+        "thumb": {
+          "src": "/media/videos/h5b9-amg6a.jpg",
+          "source": "https://i.ytimg.com/vi/_h5B9-AMg6A/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      {
+        "id": "wPmc_lkms2c",
+        "title": "SHITAL MOTORS PVT LTD-Customer Delight Story-GJ01WE3954",
+        "thumb": {
+          "src": "/media/videos/wpmc-lkms2c.jpg",
+          "source": "https://i.ytimg.com/vi/wPmc_lkms2c/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      }
+    ],
+    "walkaround": "uS0WPxmNZ0o",
+    "walkaroundThumb": {
+      "src": "/media/videos/us0wpxmnz0o.jpg",
+      "source": "https://i.ytimg.com/vi/uS0WPxmNZ0o/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+    },
+    "gallery": [
+      {
+        "src": "/media/service/service-center-9080.jpg",
+        "source": "https://mahindraimages.dealersites.in/139/gallery/service-center-9080.jpg",
+        "width": 751,
+        "height": 499
+      },
+      {
+        "src": "/media/service/service-center-9077.jpg",
+        "source": "https://mahindraimages.dealersites.in/139/gallery/service-center-9077.jpg",
+        "width": 751,
+        "height": 499
+      },
+      {
+        "src": "/media/service/service-center-9086.jpg",
+        "source": "https://mahindraimages.dealersites.in/139/gallery/service-center-9086.jpg",
+        "width": 751,
+        "height": 499
+      },
+      {
+        "src": "/media/service/service-center-9081.jpg",
+        "source": "https://mahindraimages.dealersites.in/139/gallery/service-center-9081.jpg",
+        "width": 751,
+        "height": 499
+      },
+      {
+        "src": "/media/service/service-center-9083.jpg",
+        "source": "https://mahindraimages.dealersites.in/139/gallery/service-center-9083.jpg",
+        "width": 751,
+        "height": 499
+      },
+      {
+        "src": "/media/service/service-center-9084.jpg",
+        "source": "https://mahindraimages.dealersites.in/139/gallery/service-center-9084.jpg",
+        "width": 751,
+        "height": 499
+      },
+      {
+        "src": "/media/service/service-center-9085.jpg",
+        "source": "https://mahindraimages.dealersites.in/139/gallery/service-center-9085.jpg",
+        "width": 751,
+        "height": 499
+      },
+      {
+        "src": "/media/service/service-center-9082.jpg",
+        "source": "https://mahindraimages.dealersites.in/139/gallery/service-center-9082.jpg",
+        "width": 751,
+        "height": 499
+      }
+    ],
+    "banners": [
+      {
+        "src": "/media/service/service1-4399.jpg",
+        "source": "https://mahindraimages.dealersites.in/139/banner/service1-4399.jpg",
+        "width": 1600,
+        "height": 500
+      },
+      {
+        "src": "/media/service/service2-4400.jpg",
+        "source": "https://mahindraimages.dealersites.in/139/banner/service2-4400.jpg",
+        "width": 1600,
+        "height": 500
+      },
+      {
+        "src": "/media/service/service3-4401.jpg",
+        "source": "https://mahindraimages.dealersites.in/139/banner/service3-4401.jpg",
+        "width": 1600,
+        "height": 500
+      },
+      {
+        "src": "/media/service/sp-ring-road-4755.jpg",
+        "source": "https://mahindraimages.dealersites.in/139/banner/sp-ring-road-4755.jpg",
+        "width": 1600,
+        "height": 666
+      }
+    ],
+    "workshopPhotos": [
+      {
+        "src": "/media/outlets/shital-motors-s-p-ring-road-bopal-614.jpg",
+        "source": "https://mahindraimages.dealersites.in/139/outlet_gallery/shital-motors---s-p-ring-road-bopal-614.jpg",
+        "width": 1280,
+        "height": 853
+      },
+      {
+        "src": "/media/outlets/shital-motors-changodar-615.jpg",
+        "source": "https://mahindraimages.dealersites.in/139/outlet_gallery/shital-motors---changodar-615.jpg",
+        "width": 1280,
+        "height": 853
+      },
+      {
+        "src": "/media/outlets/shital-motors-surendranagar-789.jpg",
+        "source": "https://mahindraimages.dealersites.in/139/outlet_gallery/shital-motors---surendranagar-789.jpg",
+        "width": 1280,
+        "height": 853
+      }
+    ],
+    "serviceTypes": [
+      "Schedule",
+      "Accidental",
+      "Repair"
+    ],
+    "serviceSlots": []
+  },
+  "legal": {
+    "privacy": {
+      "title": "Privacy Policy",
+      "sourceUrl": "https://www.shitalmotors.com/privacy.html",
+      "blocks": [
+        {
+          "kind": "para",
+          "text": "This privacy policy has been compiled to better serve those who are concerned with how their \"Personally identifiable information\" (PII) is being used online. PII, as used in India privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website."
+        },
+        {
+          "kind": "heading",
+          "text": "What personal information do we collect from the people that visit our blog, website or app?"
+        },
+        {
+          "kind": "para",
+          "text": "When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address, mailing address, phone number or other details to help you with your experience."
+        },
+        {
+          "kind": "heading",
+          "text": "When do we collect information?"
+        },
+        {
+          "kind": "para",
+          "text": "We collect information from you when you fill out a form or enter information on our site."
+        },
+        {
+          "kind": "heading",
+          "text": "How do we use your information?"
+        },
+        {
+          "kind": "para",
+          "text": "We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:"
+        },
+        {
+          "kind": "item",
+          "text": "To allow us to better service you in responding to your customer service requests."
+        },
+        {
+          "kind": "item",
+          "text": "To quickly process your transactions."
+        },
+        {
+          "kind": "heading",
+          "text": "How do we protect visitor information?"
+        },
+        {
+          "kind": "para",
+          "text": "We do not use vulnerability scanning and/or scanning to PCI standards."
+        },
+        {
+          "kind": "para",
+          "text": "We do not use Malware Scanning."
+        },
+        {
+          "kind": "para",
+          "text": "We do not use an SSL certificate"
+        },
+        {
+          "kind": "item",
+          "text": "We do not need an SSL because We are providing information about automobiles available at our Showroom. We are also making a \"post service done\" payment for customer. Thus we do not an SSL certificate."
+        },
+        {
+          "kind": "heading",
+          "text": "Do we use \"cookies\"?"
+        },
+        {
+          "kind": "para",
+          "text": "We do not use cookies for tracking purposes You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser`s Help menu to learn the correct way to modify your cookies."
+        },
+        {
+          "kind": "para",
+          "text": "If you disable cookies off, some features will be disabled that make your site experience more efficient and some of our services will not function properly."
+        },
+        {
+          "kind": "para",
+          "text": "However, you can still place orders ."
+        },
+        {
+          "kind": "heading",
+          "text": "Third Party Disclosure"
+        },
+        {
+          "kind": "para",
+          "text": "We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information."
+        },
+        {
+          "kind": "heading",
+          "text": "Third party links"
+        },
+        {
+          "kind": "para",
+          "text": "We do not include or offer third party products or services on our website."
+        },
+        {
+          "kind": "heading",
+          "text": "Google"
+        },
+        {
+          "kind": "para",
+          "text": "Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users https://www.support.google.com/adwordspolicy/answer/1316548?hl=en . We use Google AdSense Advertising on our website."
+        },
+        {
+          "kind": "para",
+          "text": "We use Google AdSense Advertising on our website."
+        },
+        {
+          "kind": "para",
+          "text": "Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy."
+        },
+        {
+          "kind": "heading",
+          "text": "We have implemented the following:"
+        },
+        {
+          "kind": "item",
+          "text": "Demographics and Interests Reporting."
+        },
+        {
+          "kind": "para",
+          "text": "We along with third-party vendors, such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together."
+        },
+        {
+          "kind": "heading",
+          "text": "To analyze our website Opting out:"
+        },
+        {
+          "kind": "para",
+          "text": "Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on."
+        },
+        {
+          "kind": "heading",
+          "text": "COPPA (Children Online Privacy Protection Act)"
+        },
+        {
+          "kind": "para",
+          "text": "When it comes to the collection of personal information from children under 13, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation's consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online."
+        },
+        {
+          "kind": "para",
+          "text": "We do not specifically market to children under 13."
+        },
+        {
+          "kind": "heading",
+          "text": "Fair Information Practices"
+        },
+        {
+          "kind": "para",
+          "text": "The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information."
+        },
+        {
+          "kind": "heading",
+          "text": "In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:"
+        },
+        {
+          "kind": "para",
+          "text": "We will notify the users via email Within 7 business days"
+        },
+        {
+          "kind": "para",
+          "text": "We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors."
+        },
+        {
+          "kind": "heading",
+          "text": "CAN SPAM Act"
+        },
+        {
+          "kind": "para",
+          "text": "The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations."
+        },
+        {
+          "kind": "heading",
+          "text": "We collect your email address in order to:"
+        },
+        {
+          "kind": "heading",
+          "text": "To be in accordance with CANSPAM we agree to the following:"
+        },
+        {
+          "kind": "para",
+          "text": "If at any time you would like to unsubscribe from receiving future emails, you can email us at and we will promptly remove you from ALL correspondence."
+        }
+      ]
+    },
+    "terms": {
+      "title": "Terms and Conditions",
+      "sourceUrl": "https://www.shitalmotors.com/terms-and-conditions.html",
+      "blocks": [
+        {
+          "kind": "heading",
+          "text": "Links to Third-Party Websites"
+        },
+        {
+          "kind": "para",
+          "text": "Links to third-party websites are provided for convenience only and do not imply any approval or endorsement by the Company of the linked sites, even if they may contain the Company’s logo, as such sites are beyond the Company’s control. Thus, the Company cannot be held responsible for the contents of any linked site or any link contained therein."
+        },
+        {
+          "kind": "para",
+          "text": "You acknowledge that framing the Company’s website, or any similar process is prohibited."
+        },
+        {
+          "kind": "heading",
+          "text": "Intellectual Property"
+        },
+        {
+          "kind": "para",
+          "text": "This website is the exclusive property of the Company. Any material that it contains, including, but not limited to, texts, data, graphics, pictures, sounds, videos, logos, icons or HTML code is protected under the intellectual property laws and remains the Company or third party’s property."
+        },
+        {
+          "kind": "para",
+          "text": "You may use this material for personal and non-commercial purposes in accordance with the principles governing intellectual property laws. Any other use or modification of the content of the Company’s website without the Company’s prior written authorization is prohibited. Framing this site or using our proprietary marks as meta tags by you are any person acting on your behalf, without our written consent is impermissible. Use of contact information provided on the site for unauthorized purposes, including marketing is prohibited. Any use intended to impede the working of the site or to intercept any information from the site is prohibited."
+        },
+        {
+          "kind": "heading",
+          "text": "Warranty and Liability"
+        },
+        {
+          "kind": "para",
+          "text": "All materials, including downloadable software, contained on the Company’s website is provided on ‘as is’ basis and without warranty of any kind to the extent allowed by the applicable law. While the Company will use reasonable efforts to provide reliable information through its website, the Company does not warrant that this website is free of inaccuracies, errors and/or omissions, viruses, worms, Trojan and the like, or that its content is appropriate for your particular use or up to date. The Company reserves the right to change the information at any time without notice. The Company does not warrant any results derived from the use of any software available on this site. You are solely responsible for any use of the materials contained in this site."
+        },
+        {
+          "kind": "para",
+          "text": "The information contained in this site does not extend or modify the warranty that may apply to you as a result of a contractual relationship with the Company."
+        },
+        {
+          "kind": "para",
+          "text": "The Company will not be liable for any indirect, consequential or incidental damages, including but not limited to loss of profits or revenues, business interruption, loss of data arising out of or in connection with the use, inability to use or reliance on any material contained in this site or any linked site."
+        },
+        {
+          "kind": "heading",
+          "text": "Users’ Comments and Information Collected"
+        },
+        {
+          "kind": "para",
+          "text": "The Company does not assume any obligation to monitor the information that you may post on its website."
+        },
+        {
+          "kind": "para",
+          "text": "You warrant that any and all information on projects, files or other attachments sent to us (‘Material’) or comments other than personal data, that you may transmit to the Company through the website does not infringe intellectual property rights or any other applicable law. Such information, material or comments, will be treated as non-confidential and non-proprietary. By submitting any information or material, you give the Company an unlimited and irrevocable license to use, execute, show, modify and transmit such information, material or comments, including any underlying idea, concept or know-how. The Company reserves the right to use such information in any way it chooses."
+        },
+        {
+          "kind": "para",
+          "text": "We collect information from a variety of sources, directly and indirectly. The term “personal data” means information relating to an identified or identifiable individual (i.e. a natural person). All of the information we collect about persons is used to monitor the use of the site and develop world-class products and services of superior quality. Such use does not result in any personally identifiable information being collected or stored. By submitting your personal data through this website, you shall be consenting to it being handled in accordance with the site's online Privacy Policy. You agree to provide true and complete information about yourself by registering on this site and you are solely responsible for protecting your password and all acts by way of use of your password. If you have submitted personal data through this website and wish us to cease using it for the purposes submitted, please contact us using the contact details given in the appropriate sections of the site."
+        },
+        {
+          "kind": "heading",
+          "text": "Applicable law - Severability"
+        },
+        {
+          "kind": "para",
+          "text": "The Indian Law governs these Terms of Use. The courts in Mumbai have jurisdiction in relation to any claim or action arising out of, or in connection with, the Terms of Use."
+        },
+        {
+          "kind": "para",
+          "text": "If any provision of these Terms of Use is held by a court to be illegal, invalid or unenforceable, the remaining provisions shall remain in full force and effect."
+        },
+        {
+          "kind": "heading",
+          "text": "Modifications of the Terms of Use"
+        },
+        {
+          "kind": "para",
+          "text": "The Company reserves the right to change the Terms of Use under which this website is offered at any time and without notice. You will be automatically bound by these modifications when you use this site, and should periodically read the Terms of Use."
+        },
+        {
+          "kind": "para",
+          "text": "After having read and understood the disclaimer and copyright notice, you hereby agree to accept and abide by all the terms and conditions as mentioned therein at your sole responsibility."
+        }
+      ]
+    },
+    "disclaimer": {
+      "title": "Disclaimer",
+      "sourceUrl": "https://www.shitalmotors.com/disclaimer.html",
+      "blocks": [
+        {
+          "kind": "para",
+          "text": "The information on vehicles provided by Shital Motors is provided on an \"as is\" and \"as available\" basis and Shital Motors makes no representations or warranties, expressed or implied, to any actual or prospective purchaser or owner of any vehicle as to the existence, ownership, or condition of the vehicle or as to the accuracy or completeness of any information about the vehicle contained in this service. Shital Motors reserves the right to terminate any product or price at any time, in its sole discretion. You acknowledge that any reliance upon any such materials shall be at your sole risk. Shital Motors reserves the right, in its sole discretion, to correct any error or omission in any portion of the service or materials. Any and all concerns, differences, or discrepancies must be addressed with the Shital Motors prior to the sale of the vehicle."
+        },
+        {
+          "kind": "para",
+          "text": "While we try to make sure that all prices, information, etc. posted are accurate at all times, we cannot be responsible for typographical and other errors that may appear on the site. If the posted price, information, etc. for a vehicle or service is incorrect due to typographical or other error (e.g., data transmission), this dealership is NOT responsible. If we discover a mistake, error, etc. we will endeavor to provide the correction to you as soon as we become aware of it. We make every effort to provide you the most accurate, up-to-the-minute information, however it is your responsibility to verify with our dealership that all of the details listed are accurate."
+        },
+        {
+          "kind": "para",
+          "text": "Vehicle images and descriptions posted on our website pages are representations provided for additional information purposes only and should not in any way be considered as factual and final. Please note that the actual vehicle may differ slightly from specifications and/or the pictures. Our dealership is not responsible for typographical, pricing, product information, advertising or other errors. Advertised prices, information, etc. are subject to change without notice."
+        },
+        {
+          "kind": "para",
+          "text": "In the event a vehicle is listed at an incorrect price due to typographical, photographic, technical error, or other error, our dealership shall have the right to refuse or cancel any orders placed for the vehicle listed at the incorrect price."
+        },
+        {
+          "kind": "para",
+          "text": "You agree to release, hold harmless and indemnify Shital Motors and its employees, from any and all liability arising from incorrect or incomplete information regarding any vehicle. Shital Motors specifically disclaims any implied warranties, including the warranties of merchantability and fitness for a particular purpose regarding any vehicle with information provided in this service. All vehicles are subject to prior sales."
+        }
+      ]
+    }
+  }
+}

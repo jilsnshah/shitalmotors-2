@@ -1,0 +1,218 @@
+@import "tailwindcss";
+
+/* ==========================================================================
+   Shital Motors design system — "Studio"
+   A bright, quiet canvas; vehicles staged on the studio grey their
+   photography was shot on; ink typography; a single red accent for action.
+   ========================================================================== */
+
+@theme {
+  /* Colour */
+  --color-canvas: #f6f6f4;
+  --color-surface: #ffffff;
+  --color-sunken: #efefec;
+  /* Exact background of the OEM studio photography — car stages use it so
+     photos read as cut-outs. Do not change without re-checking the images. */
+  --color-studio: #e0e0e2;
+  --color-line: #e4e4df;
+  --color-line-strong: #d3d3cc;
+  --color-ink: #0c0e12;
+  --color-ink-2: #2b3038;
+  --color-muted: #5a626d;
+  --color-subtle: #687079;
+  --color-accent: #c8102e;
+  --color-accent-strong: #a30d25;
+  --color-accent-soft: #fbe9ec;
+  --color-success: #12704a;
+  --color-success-soft: #e7f4ee;
+  --color-warning: #8a5a00;
+  --color-warning-soft: #fdf3dc;
+  --color-electric: #0d6e8a;
+  --color-electric-soft: #e6f3f7;
+
+  /* Type */
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+  --font-display: var(--font-archivo), var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+
+  /* Radius */
+  --radius-card: 1.25rem;
+  --radius-stage: 1.75rem;
+
+  /* Elevation — layered, low-contrast shadows */
+  --shadow-xs: 0 1px 2px rgb(12 14 18 / 0.05);
+  --shadow-card: 0 1px 2px rgb(12 14 18 / 0.04), 0 4px 16px -4px rgb(12 14 18 / 0.08);
+  --shadow-lift: 0 2px 4px rgb(12 14 18 / 0.04), 0 18px 40px -12px rgb(12 14 18 / 0.18);
+  --shadow-float: 0 12px 48px -12px rgb(12 14 18 / 0.28), 0 2px 6px rgb(12 14 18 / 0.06);
+
+  /* Motion */
+  --ease-out-quint: cubic-bezier(0.22, 1, 0.36, 1);
+  --ease-in-out-cubic: cubic-bezier(0.65, 0, 0.35, 1);
+
+  --breakpoint-xs: 26rem;
+
+  --animate-fade-in: fade-in 0.4s var(--ease-out-quint) both;
+  --animate-rise: rise 0.6s var(--ease-out-quint) both;
+  --animate-pulse-dot: pulse-dot 2s ease-in-out infinite;
+
+  @keyframes fade-in {
+    from { opacity: 0; }
+    to { opacity: 1; }
+  }
+  @keyframes rise {
+    from { opacity: 0; transform: translateY(14px); }
+    to { opacity: 1; transform: none; }
+  }
+  @keyframes pulse-dot {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.35; }
+  }
+}
+
+@layer base {
+  html {
+    -webkit-text-size-adjust: 100%;
+    text-rendering: optimizeLegibility;
+    scroll-padding-top: 6rem;
+  }
+  @media (prefers-reduced-motion: no-preference) {
+    html { scroll-behavior: smooth; }
+  }
+  body {
+    background: var(--color-canvas);
+    color: var(--color-ink);
+    font-family: var(--font-sans);
+    font-feature-settings: "cv11", "ss01";
+    -webkit-font-smoothing: antialiased;
+  }
+  h1, h2, h3, h4 {
+    font-family: var(--font-display);
+    font-variation-settings: "wdth" 108;
+    letter-spacing: -0.02em;
+    text-wrap: balance;
+  }
+  p { text-wrap: pretty; }
+  ::selection { background: var(--color-ink); color: white; }
+  :focus-visible {
+    outline: 2px solid var(--color-accent);
+    outline-offset: 3px;
+    border-radius: 6px;
+  }
+  [hidden] { display: none !important; }
+}
+
+@layer components {
+  .container-x {
+    width: 100%;
+    max-width: 82rem;
+    margin-inline: auto;
+    padding-inline: 1.25rem;
+  }
+  @media (min-width: 48rem) { .container-x { padding-inline: 2rem; } }
+  @media (min-width: 80rem) { .container-x { padding-inline: 2.5rem; } }
+
+  .eyebrow {
+    font-family: var(--font-display);
+    font-size: 0.75rem;
+    font-weight: 600;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--color-muted);
+  }
+
+  .display-xl {
+    font-size: clamp(2.6rem, 1.45rem + 4.6vw, 5.4rem);
+    line-height: 0.98;
+    font-weight: 640;
+    letter-spacing: -0.035em;
+    font-variation-settings: "wdth" 114;
+  }
+  .display-lg {
+    font-size: clamp(2.1rem, 1.35rem + 2.9vw, 3.75rem);
+    line-height: 1.02;
+    font-weight: 630;
+    letter-spacing: -0.03em;
+    font-variation-settings: "wdth" 112;
+  }
+  .heading-lg {
+    font-size: clamp(1.65rem, 1.25rem + 1.6vw, 2.6rem);
+    line-height: 1.08;
+    font-weight: 620;
+    letter-spacing: -0.025em;
+  }
+  .heading-md {
+    font-size: clamp(1.25rem, 1.1rem + 0.6vw, 1.6rem);
+    line-height: 1.2;
+    font-weight: 600;
+  }
+  .lead {
+    font-size: clamp(1.02rem, 0.96rem + 0.3vw, 1.2rem);
+    line-height: 1.6;
+    color: var(--color-ink-2);
+  }
+
+  /* Studio stage: the OEM photo background, plus overlays that sit ABOVE the
+     image so the photo edge stays invisible while the stage gains depth. */
+  .stage {
+    position: relative;
+    background: var(--color-studio);
+    isolation: isolate;
+    overflow: hidden;
+  }
+  .stage::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    z-index: 2;
+    background:
+      radial-gradient(120% 70% at 50% -10%, rgb(255 255 255 / 0.55), transparent 60%),
+      linear-gradient(to bottom, transparent 65%, rgb(12 14 18 / 0.06));
+  }
+
+  .hairline { border-color: var(--color-line); }
+
+  .card {
+    background: var(--color-surface);
+    border: 1px solid var(--color-line);
+    border-radius: var(--radius-card);
+    box-shadow: var(--shadow-xs);
+  }
+
+  .link-underline {
+    background-image: linear-gradient(currentColor, currentColor);
+    background-size: 0% 1px;
+    background-position: 0 100%;
+    background-repeat: no-repeat;
+    transition: background-size 0.35s var(--ease-out-quint);
+  }
+  .link-underline:hover { background-size: 100% 1px; }
+
+  .scrollbar-none { scrollbar-width: none; }
+  .scrollbar-none::-webkit-scrollbar { display: none; }
+
+  .tabular { font-variant-numeric: tabular-nums; }
+}
+
+/* Scroll-driven reveal: pure CSS, zero JS, progressive enhancement.
+   Browsers without view timelines simply show content immediately. */
+@supports (animation-timeline: view()) {
+  @media (prefers-reduced-motion: no-preference) {
+    .reveal {
+      animation: reveal-in linear both;
+      animation-timeline: view();
+      animation-range: entry 0% entry 28%;
+    }
+    @keyframes reveal-in {
+      from { opacity: 0; transform: translateY(22px); }
+      to { opacity: 1; transform: none; }
+    }
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
